@@ -4,5 +4,8 @@ Projeto realizado para ensino do curso de angular.
 # Como funciona
 Crie o projeto no angular e substitua a pasta scr e o arquivo angular.json. Execute o comando "ng serve" na pasta raiz do projeto, o backend rodar acesse a pasta cmail-back e execute o comando "npm start"
 
+# Frontend
+Descompacte o arquivo cmail.zip para gerar a pasta cmail(pasta raiz do projeto).
+
 # Backend
-O backend é o arquivo compactado cmail-back, descompacte o arquivo que você terá a pasta cmail-back.
+O backend é o arquivo compactado cmail-back.zip, descompacte o arquivo que você terá a pasta cmail-back.
